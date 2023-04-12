@@ -11,10 +11,6 @@ import java.io.IOException;
 import java.io.InputStream;
 import java.util.zip.GZIPInputStream;
 
-/**
- *
- * @author shivenduac
- */
 public class decompressor {
     public static void method(File file) throws IOException{
         String fileDirectory= file.getParent();
