@@ -10,10 +10,7 @@ import java.io.FileOutputStream;
 import java.io.IOException;
 import java.util.zip.GZIPOutputStream;
 
-/**
- *
- * @author shivenduac
- */
+
 public class compressor {
     public static void method(File file) throws IOException{
         String filedirectory= file.getParent();
