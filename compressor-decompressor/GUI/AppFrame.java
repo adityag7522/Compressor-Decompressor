@@ -15,10 +15,7 @@ import javax.swing.JFileChooser;
 import javax.swing.JFrame;
 import javax.swing.JOptionPane;
 
-/**
- *
- * @author shivenduac
- */
+
 public class AppFrame extends JFrame implements ActionListener{
     
     JButton compressButton;
